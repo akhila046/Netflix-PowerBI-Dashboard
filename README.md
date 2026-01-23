@@ -71,7 +71,8 @@ Netflix Movies and TV Shows dataset sourced from **Kaggle**
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard Preview](https://raw.githubusercontent.com/akhila046/Netflix-PowerBI-Dashboard/main/Image/dashboard_preview.png)
+ <img width="2200" height="1238" alt="dashboard_preview" src="https://github.com/user-attachments/assets/bcbfe6a7-bb20-4cd3-8d94-ce10e26f1246" />
+
 
 ---
 
